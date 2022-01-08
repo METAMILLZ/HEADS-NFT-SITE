@@ -1,6 +1,6 @@
 {
-  "CONTRACT_ADDRESS": "0x8fbba4e99e09f882d872a47ff82daef2171752c3",
-  "SCAN_LINK": "https://rinkeby.etherscan.io/token/0x8fbba4e99e09f882d872a47ff82daef2171752c3",
+  "CONTRACT_ADDRESS": "0x2df413cad7fab4b853e222c3e789af3d19059031",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/token/0x2df413cad7fab4b853e222c3e789af3d19059031",
   "NETWORK": {
     "NAME": "Rinkeby Testnet",
     "SYMBOL": "ETH",
@@ -9,8 +9,8 @@
   "NFT_NAME": "Elongated Punks",
   "SYMBOL": "Elongated Punks",
   "MAX_SUPPLY": 2500,
-  "WEI_COST": 500000000000000,
-  "DISPLAY_COST": 0.005,
+  "WEI_COST": 0,
+  "DISPLAY_COST": 0.00,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opensea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/elongated-punks",
