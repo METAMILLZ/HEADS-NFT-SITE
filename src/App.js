@@ -411,7 +411,7 @@ function App() {
           <s.TextDescription
             style={{
               textAlign: "center",
-              color: "#ff6600
+              color: "#ff6600"
 ",
             }}
           >
@@ -422,7 +422,7 @@ function App() {
           <s.TextDescription
             style={{
               textAlign: "center",
-              color: "#ff6600
+              color: "#ff6600"
 ",
             }}
           >
