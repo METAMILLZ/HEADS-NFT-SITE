@@ -421,7 +421,7 @@ function App() {
           <s.TextDescription
             style={{
               textAlign: "center",
-              color: "var(--primary-text)",
+              color: "#000000",
             }}
           >
             WAGMI
