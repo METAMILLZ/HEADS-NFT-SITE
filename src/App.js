@@ -414,9 +414,8 @@ function App() {
               color: "var(--primary-text)",
             }}
           >
-            Please make sure you are connected to the right network (
-            {CONFIG.NETWORK.NAME} Mainnet) and the correct address. Please note:
-            Once you make the purchase, you cannot undo this action.
+            Elongated Punks is a collection of 2,500 NFT on the Ethereum Blockchain. Its about time Crypto Punks have a revamp with longer necks!
+              No Roadmap Planned, just to build a fun engaging community. 
           </s.TextDescription>
           <s.SpacerSmall />
           <s.TextDescription
@@ -425,9 +424,8 @@ function App() {
               color: "var(--primary-text)",
             }}
           >
-            We have set the gas limit to {CONFIG.GAS_LIMIT} for the contract to
-            successfully mint your NFT. We recommend that you don't lower the
-            gas limit.
+            WAGMI
+
           </s.TextDescription>
         </s.Container>
       </s.Container>
