@@ -1,10 +1,10 @@
 {
-  "CONTRACT_ADDRESS": "0x2df413cad7fab4b853e222c3e789af3d19059031",
-  "SCAN_LINK": "https://rinkeby.etherscan.io/token/0x2df413cad7fab4b853e222c3e789af3d19059031",
+  "CONTRACT_ADDRESS": "0x9c9F9F7F8101DA2309d8a0f5A9341EBceBdC7de8",
+  "SCAN_LINK": "https://etherscan.io/token/0x9c9f9f7f8101da2309d8a0f5a9341ebcebdc7de8",
   "NETWORK": {
-    "NAME": "Rinkeby Testnet",
+    "NAME": "Ethereum",
     "SYMBOL": "ETH",
-    "ID": 4
+    "ID": 1
   },
   "NFT_NAME": "Elongated Punks",
   "SYMBOL": "Elongated Punks",
