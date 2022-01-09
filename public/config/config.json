@@ -11,7 +11,7 @@
   "MAX_SUPPLY": 2500,
   "WEI_COST": 0,
   "DISPLAY_COST": 0.00,
-  "GAS_LIMIT": 35000,
+  "GAS_LIMIT": 21000 ,
   "MARKETPLACE": "Opensea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/elongated-punks",
   "SHOW_BACKGROUND": true
