@@ -409,7 +409,7 @@ function App() {
           <s.TextDescription
             style={{
               textAlign: "center",
-              color: "#ff6600",
+              color: "#7FDE25",
             }}
           >
             Elongated Punks is a collection of 2,500 NFT on the Ethereum Blockchain. Owning a Elongated Punk will allow you to become part of our Alpha Group where exclusive infomation is shared. Furthermore being part of the crew will allow you to become whitelisted in other larger projects! Not affilated with Crypto Punks. WAGMI
