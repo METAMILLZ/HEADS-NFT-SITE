@@ -412,7 +412,7 @@ function App() {
               color: "#7FDE25",
             }}
           >
-            Elongated Punks is a collection of 2,500 NFT on the Ethereum Blockchain. Owning a Elongated Punk will allow you to become part of our Alpha Group where exclusive infomation is shared. Furthermore being part of the crew will allow you to become whitelisted in other larger projects! Not affilated with Crypto Punks. WAGMI
+            Elongated Punks is a collection of 2,500 NFT on the Ethereum Blockchain. Join the community and be part of the Alpha group where exclusive infomation is shared and whitelist spots are given!
           </s.TextDescription>
           <s.SpacerSmall />
           <s.TextDescription
