@@ -409,7 +409,7 @@ function App() {
           <s.TextDescription
             style={{
               textAlign: "center",
-              color: "#7FDE25",
+              color: "#3f05b3",
             }}
           >
             Elongated Punks is a collection of 2,500 NFT on the Ethereum Blockchain. Join the community and be part of the Alpha group where exclusive infomation is shared and whitelist spots are given!
@@ -418,7 +418,7 @@ function App() {
           <s.TextDescription
             style={{
               textAlign: "center",
-              color: "#7FDE25",
+              color: "#3f05b3",
             }}
           >
             WAGMI
